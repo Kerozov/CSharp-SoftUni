@@ -9,33 +9,36 @@ namespace _11_snowball
             //input
             int number = int.Parse(Console.ReadLine());
 
-            //veriables
+            //variables
            BigInteger valueSnowball = 0;
             BigInteger maxValue = int.MinValue;
-            int snowballQuality = 0;
-            int snowballTime = 0;
-            int snowballSnow = 0;
+            int snowballQualityMax = 0;
+            int snowballTimeMax = 0;
+            int snowballSnowMax = 0;
 
 
             //loop
             for (int i = 0; i < number; i++)
             {
                 //input in the loop
-                 snowballSnow = int.Parse(Console.ReadLine());
-                 snowballTime = int.Parse(Console.ReadLine());
-                 snowballQuality = int.Parse(Console.ReadLine());
+                 int snowballSnow = int.Parse(Console.ReadLine());
+                 int snowballTime = int.Parse(Console.ReadLine());
+                 int snowballQuality = int.Parse(Console.ReadLine());
 
                 //manipulate
                 valueSnowball = BigInteger.Pow(snowballSnow/ snowballTime, snowballQuality);
                 if (maxValue< valueSnowball)
                 {
                     maxValue = valueSnowball;
+                    snowballQualityMax = snowballQuality;
+                    snowballTimeMax = snowballTime;
+                    snowballSnowMax = snowballSnow;
                 }
 
             }
 
             //output
-            Console.WriteLine($"{snowballSnow} : {snowballTime} = {valueSnowball} ({snowballQuality})");
+            Console.WriteLine($"{snowballSnowMax} : {snowballTimeMax} = {maxValue} ({snowballQualityMax})");
         }
     }
 }
