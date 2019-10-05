@@ -1,0 +1,11 @@
+D:\Projects\dataTypeExercise\02_\bin\Debug\netcoreapp2.1\02_sumOfDigits.deps.json
+D:\Projects\dataTypeExercise\02_\bin\Debug\netcoreapp2.1\02_sumOfDigits.runtimeconfig.json
+D:\Projects\dataTypeExercise\02_\bin\Debug\netcoreapp2.1\02_sumOfDigits.runtimeconfig.dev.json
+D:\Projects\dataTypeExercise\02_\bin\Debug\netcoreapp2.1\02_sumOfDigits.dll
+D:\Projects\dataTypeExercise\02_\bin\Debug\netcoreapp2.1\02_sumOfDigits.pdb
+D:\Projects\dataTypeExercise\02_\obj\Debug\netcoreapp2.1\02_sumOfDigits.csprojAssemblyReference.cache
+D:\Projects\dataTypeExercise\02_\obj\Debug\netcoreapp2.1\02_sumOfDigits.csproj.CoreCompileInputs.cache
+D:\Projects\dataTypeExercise\02_\obj\Debug\netcoreapp2.1\02_sumOfDigits.AssemblyInfoInputs.cache
+D:\Projects\dataTypeExercise\02_\obj\Debug\netcoreapp2.1\02_sumOfDigits.AssemblyInfo.cs
+D:\Projects\dataTypeExercise\02_\obj\Debug\netcoreapp2.1\02_sumOfDigits.dll
+D:\Projects\dataTypeExercise\02_\obj\Debug\netcoreapp2.1\02_sumOfDigits.pdb

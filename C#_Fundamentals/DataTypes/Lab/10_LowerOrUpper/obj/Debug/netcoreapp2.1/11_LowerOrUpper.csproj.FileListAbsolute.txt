@@ -1,0 +1,10 @@
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\bin\Debug\netcoreapp2.1\11_LowerOrUpper.deps.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\bin\Debug\netcoreapp2.1\11_LowerOrUpper.runtimeconfig.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\bin\Debug\netcoreapp2.1\11_LowerOrUpper.runtimeconfig.dev.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\bin\Debug\netcoreapp2.1\11_LowerOrUpper.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\bin\Debug\netcoreapp2.1\11_LowerOrUpper.pdb
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\obj\Debug\netcoreapp2.1\11_LowerOrUpper.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\obj\Debug\netcoreapp2.1\11_LowerOrUpper.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\obj\Debug\netcoreapp2.1\11_LowerOrUpper.AssemblyInfo.cs
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\obj\Debug\netcoreapp2.1\11_LowerOrUpper.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\11_LowerOrUpper\obj\Debug\netcoreapp2.1\11_LowerOrUpper.pdb

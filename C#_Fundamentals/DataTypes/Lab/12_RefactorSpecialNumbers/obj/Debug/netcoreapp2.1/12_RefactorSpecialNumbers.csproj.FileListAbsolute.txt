@@ -1,0 +1,10 @@
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.deps.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.runtimeconfig.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.pdb
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.AssemblyInfo.cs
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12_RefactorSpecialNumbers.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\bin\Debug\netcoreapp2.1\05_.deps.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\bin\Debug\netcoreapp2.1\05_.runtimeconfig.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\bin\Debug\netcoreapp2.1\05_.runtimeconfig.dev.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\bin\Debug\netcoreapp2.1\05_.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\bin\Debug\netcoreapp2.1\05_.pdb
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\obj\Debug\netcoreapp2.1\05_.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\obj\Debug\netcoreapp2.1\05_.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\obj\Debug\netcoreapp2.1\05_.AssemblyInfo.cs
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\obj\Debug\netcoreapp2.1\05_.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\obj\Debug\netcoreapp2.1\05_.pdb
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\05_\obj\Debug\netcoreapp2.1\05_.csprojAssemblyReference.cache

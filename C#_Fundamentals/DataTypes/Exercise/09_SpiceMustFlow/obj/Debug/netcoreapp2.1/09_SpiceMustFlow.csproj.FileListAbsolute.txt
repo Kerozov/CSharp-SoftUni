@@ -1,0 +1,11 @@
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\bin\Debug\netcoreapp2.1\09_SpiceMustFlow.deps.json
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\bin\Debug\netcoreapp2.1\09_SpiceMustFlow.runtimeconfig.json
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\bin\Debug\netcoreapp2.1\09_SpiceMustFlow.runtimeconfig.dev.json
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\bin\Debug\netcoreapp2.1\09_SpiceMustFlow.dll
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\bin\Debug\netcoreapp2.1\09_SpiceMustFlow.pdb
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\obj\Debug\netcoreapp2.1\09_SpiceMustFlow.csprojAssemblyReference.cache
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\obj\Debug\netcoreapp2.1\09_SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\obj\Debug\netcoreapp2.1\09_SpiceMustFlow.AssemblyInfoInputs.cache
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\obj\Debug\netcoreapp2.1\09_SpiceMustFlow.AssemblyInfo.cs
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\obj\Debug\netcoreapp2.1\09_SpiceMustFlow.dll
+D:\Projects\dataTypeExercise\09_SpiceMustFlow\obj\Debug\netcoreapp2.1\09_SpiceMustFlow.pdb

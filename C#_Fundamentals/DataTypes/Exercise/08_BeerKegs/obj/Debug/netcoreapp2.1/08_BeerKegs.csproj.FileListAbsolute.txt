@@ -1,0 +1,11 @@
+D:\Projects\dataTypeExercise\08_BeerKegs\bin\Debug\netcoreapp2.1\08_BeerKegs.deps.json
+D:\Projects\dataTypeExercise\08_BeerKegs\bin\Debug\netcoreapp2.1\08_BeerKegs.runtimeconfig.json
+D:\Projects\dataTypeExercise\08_BeerKegs\bin\Debug\netcoreapp2.1\08_BeerKegs.runtimeconfig.dev.json
+D:\Projects\dataTypeExercise\08_BeerKegs\bin\Debug\netcoreapp2.1\08_BeerKegs.dll
+D:\Projects\dataTypeExercise\08_BeerKegs\bin\Debug\netcoreapp2.1\08_BeerKegs.pdb
+D:\Projects\dataTypeExercise\08_BeerKegs\obj\Debug\netcoreapp2.1\08_BeerKegs.csprojAssemblyReference.cache
+D:\Projects\dataTypeExercise\08_BeerKegs\obj\Debug\netcoreapp2.1\08_BeerKegs.csproj.CoreCompileInputs.cache
+D:\Projects\dataTypeExercise\08_BeerKegs\obj\Debug\netcoreapp2.1\08_BeerKegs.AssemblyInfoInputs.cache
+D:\Projects\dataTypeExercise\08_BeerKegs\obj\Debug\netcoreapp2.1\08_BeerKegs.AssemblyInfo.cs
+D:\Projects\dataTypeExercise\08_BeerKegs\obj\Debug\netcoreapp2.1\08_BeerKegs.dll
+D:\Projects\dataTypeExercise\08_BeerKegs\obj\Debug\netcoreapp2.1\08_BeerKegs.pdb

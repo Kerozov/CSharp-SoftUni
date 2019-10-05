@@ -1,0 +1,11 @@
+D:\Projects\dataTypeExercise\07_WaterOverflow\bin\Debug\netcoreapp2.1\07_WaterOverflow.deps.json
+D:\Projects\dataTypeExercise\07_WaterOverflow\bin\Debug\netcoreapp2.1\07_WaterOverflow.runtimeconfig.json
+D:\Projects\dataTypeExercise\07_WaterOverflow\bin\Debug\netcoreapp2.1\07_WaterOverflow.runtimeconfig.dev.json
+D:\Projects\dataTypeExercise\07_WaterOverflow\bin\Debug\netcoreapp2.1\07_WaterOverflow.dll
+D:\Projects\dataTypeExercise\07_WaterOverflow\bin\Debug\netcoreapp2.1\07_WaterOverflow.pdb
+D:\Projects\dataTypeExercise\07_WaterOverflow\obj\Debug\netcoreapp2.1\07_WaterOverflow.csprojAssemblyReference.cache
+D:\Projects\dataTypeExercise\07_WaterOverflow\obj\Debug\netcoreapp2.1\07_WaterOverflow.csproj.CoreCompileInputs.cache
+D:\Projects\dataTypeExercise\07_WaterOverflow\obj\Debug\netcoreapp2.1\07_WaterOverflow.AssemblyInfoInputs.cache
+D:\Projects\dataTypeExercise\07_WaterOverflow\obj\Debug\netcoreapp2.1\07_WaterOverflow.AssemblyInfo.cs
+D:\Projects\dataTypeExercise\07_WaterOverflow\obj\Debug\netcoreapp2.1\07_WaterOverflow.dll
+D:\Projects\dataTypeExercise\07_WaterOverflow\obj\Debug\netcoreapp2.1\07_WaterOverflow.pdb

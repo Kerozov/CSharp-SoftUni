@@ -1,0 +1,10 @@
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.deps.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.runtimeconfig.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.runtimeconfig.dev.json
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.pdb
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.AssemblyInfo.cs
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.dll
+D:\SoftUni\Fundamental-Moduls\dataTypes\dataTypes\12_RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\12_RefactorVolumeOfPyramid.pdb

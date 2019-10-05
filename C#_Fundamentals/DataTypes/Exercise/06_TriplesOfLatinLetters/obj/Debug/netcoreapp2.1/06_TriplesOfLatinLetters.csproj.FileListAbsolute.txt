@@ -1,0 +1,11 @@
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.deps.json
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.runtimeconfig.json
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.runtimeconfig.dev.json
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.dll
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.pdb
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.csprojAssemblyReference.cache
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.AssemblyInfo.cs
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.dll
+D:\Projects\dataTypeExercise\06_TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06_TriplesOfLatinLetters.pdb
