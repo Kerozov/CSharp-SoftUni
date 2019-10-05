@@ -1,2 +1,8 @@
 # CSharp-Software-University
-CSharp Developer program in Software University. Module - C# Fundamentals.
+
+## Software University
+### CSharp Developer
+
+### Fundamentals Module
+Courses: 
+C# Fundamentals
