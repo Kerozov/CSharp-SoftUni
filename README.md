@@ -3,6 +3,6 @@
 ## Software University
 ### CSharp Developer
 
-### Fundamentals Module
+## Fundamentals Module
 Courses: 
 C# Fundamentals
