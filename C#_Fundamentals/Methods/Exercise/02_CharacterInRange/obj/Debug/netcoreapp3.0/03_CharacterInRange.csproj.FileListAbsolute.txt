@@ -1,0 +1,11 @@
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\bin\Debug\netcoreapp3.0\03_CharacterInRange.exe
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\bin\Debug\netcoreapp3.0\03_CharacterInRange.deps.json
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\bin\Debug\netcoreapp3.0\03_CharacterInRange.runtimeconfig.json
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\bin\Debug\netcoreapp3.0\03_CharacterInRange.runtimeconfig.dev.json
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\bin\Debug\netcoreapp3.0\03_CharacterInRange.dll
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\bin\Debug\netcoreapp3.0\03_CharacterInRange.pdb
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\obj\Debug\netcoreapp3.0\03_CharacterInRange.csprojAssemblyReference.cache
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\obj\Debug\netcoreapp3.0\03_CharacterInRange.AssemblyInfoInputs.cache
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\obj\Debug\netcoreapp3.0\03_CharacterInRange.AssemblyInfo.cs
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\obj\Debug\netcoreapp3.0\03_CharacterInRange.dll
+C:\Users\Zefir\source\repos\Demo\02_CharacterInRange\obj\Debug\netcoreapp3.0\03_CharacterInRange.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\bin\Debug\netcoreapp3.0\09_PalindromeIntigers.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\bin\Debug\netcoreapp3.0\09_PalindromeIntigers.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\bin\Debug\netcoreapp3.0\09_PalindromeIntigers.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\bin\Debug\netcoreapp3.0\09_PalindromeIntigers.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\bin\Debug\netcoreapp3.0\09_PalindromeIntigers.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\bin\Debug\netcoreapp3.0\09_PalindromeIntigers.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\obj\Debug\netcoreapp3.0\09_PalindromeIntigers.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\obj\Debug\netcoreapp3.0\09_PalindromeIntigers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\obj\Debug\netcoreapp3.0\09_PalindromeIntigers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\obj\Debug\netcoreapp3.0\09_PalindromeIntigers.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\09_PalindromeIntigers\obj\Debug\netcoreapp3.0\09_PalindromeIntigers.pdb

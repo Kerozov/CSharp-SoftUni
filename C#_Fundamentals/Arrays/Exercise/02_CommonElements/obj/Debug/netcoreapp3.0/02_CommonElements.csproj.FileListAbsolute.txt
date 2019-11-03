@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\bin\Debug\netcoreapp3.0\02_CommonElements.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\bin\Debug\netcoreapp3.0\02_CommonElements.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\bin\Debug\netcoreapp3.0\02_CommonElements.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\bin\Debug\netcoreapp3.0\02_CommonElements.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\bin\Debug\netcoreapp3.0\02_CommonElements.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\bin\Debug\netcoreapp3.0\02_CommonElements.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\obj\Debug\netcoreapp3.0\02_CommonElements.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\obj\Debug\netcoreapp3.0\02_CommonElements.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\obj\Debug\netcoreapp3.0\02_CommonElements.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\obj\Debug\netcoreapp3.0\02_CommonElements.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\02_CommonElements\obj\Debug\netcoreapp3.0\02_CommonElements.pdb

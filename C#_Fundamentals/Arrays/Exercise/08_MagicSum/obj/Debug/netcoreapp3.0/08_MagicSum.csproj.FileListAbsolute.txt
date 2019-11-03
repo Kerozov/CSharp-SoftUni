@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\obj\Debug\netcoreapp3.0\08_MagicSum.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\obj\Debug\netcoreapp3.0\08_MagicSum.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\obj\Debug\netcoreapp3.0\08_MagicSum.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\bin\Debug\netcoreapp3.0\08_MagicSum.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\bin\Debug\netcoreapp3.0\08_MagicSum.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\bin\Debug\netcoreapp3.0\08_MagicSum.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\bin\Debug\netcoreapp3.0\08_MagicSum.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\bin\Debug\netcoreapp3.0\08_MagicSum.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\bin\Debug\netcoreapp3.0\08_MagicSum.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\obj\Debug\netcoreapp3.0\08_MagicSum.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\08_MagicSum\obj\Debug\netcoreapp3.0\08_MagicSum.pdb

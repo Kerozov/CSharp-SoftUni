@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\bin\Debug\netcoreapp3.0\04_ArrayRotation.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\bin\Debug\netcoreapp3.0\04_ArrayRotation.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\bin\Debug\netcoreapp3.0\04_ArrayRotation.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\bin\Debug\netcoreapp3.0\04_ArrayRotation.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\bin\Debug\netcoreapp3.0\04_ArrayRotation.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\bin\Debug\netcoreapp3.0\04_ArrayRotation.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\obj\Debug\netcoreapp3.0\04_ArrayRotation.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\obj\Debug\netcoreapp3.0\04_ArrayRotation.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\obj\Debug\netcoreapp3.0\04_ArrayRotation.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\obj\Debug\netcoreapp3.0\04_ArrayRotation.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\04_ArrayRotation\obj\Debug\netcoreapp3.0\04_ArrayRotation.pdb

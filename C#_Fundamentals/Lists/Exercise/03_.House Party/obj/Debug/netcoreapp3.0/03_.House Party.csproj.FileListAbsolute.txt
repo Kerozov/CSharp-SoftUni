@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\bin\Debug\netcoreapp3.0\03_.House Party.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\bin\Debug\netcoreapp3.0\03_.House Party.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\bin\Debug\netcoreapp3.0\03_.House Party.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\bin\Debug\netcoreapp3.0\03_.House Party.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\bin\Debug\netcoreapp3.0\03_.House Party.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\bin\Debug\netcoreapp3.0\03_.House Party.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\obj\Debug\netcoreapp3.0\03_.House Party.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\obj\Debug\netcoreapp3.0\03_.House Party.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\obj\Debug\netcoreapp3.0\03_.House Party.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\obj\Debug\netcoreapp3.0\03_.House Party.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\03_.House Party\obj\Debug\netcoreapp3.0\03_.House Party.pdb

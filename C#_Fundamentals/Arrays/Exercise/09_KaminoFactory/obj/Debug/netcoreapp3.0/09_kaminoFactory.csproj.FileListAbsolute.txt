@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\obj\Debug\netcoreapp3.0\09_kaminoFactory.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\obj\Debug\netcoreapp3.0\09_kaminoFactory.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\obj\Debug\netcoreapp3.0\09_kaminoFactory.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\bin\Debug\netcoreapp3.0\09_kaminoFactory.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\bin\Debug\netcoreapp3.0\09_kaminoFactory.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\bin\Debug\netcoreapp3.0\09_kaminoFactory.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\bin\Debug\netcoreapp3.0\09_kaminoFactory.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\bin\Debug\netcoreapp3.0\09_kaminoFactory.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\bin\Debug\netcoreapp3.0\09_kaminoFactory.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\obj\Debug\netcoreapp3.0\09_kaminoFactory.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\09_kaminoFactory\obj\Debug\netcoreapp3.0\09_kaminoFactory.pdb

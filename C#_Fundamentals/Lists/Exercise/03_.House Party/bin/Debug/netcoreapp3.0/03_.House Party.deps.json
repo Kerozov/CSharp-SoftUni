@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "03_.House Party/1.0.0": {
+        "runtime": {
+          "03_.House Party.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03_.House Party/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "02_ChangeList/1.0.0": {
+        "runtime": {
+          "02_ChangeList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_ChangeList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

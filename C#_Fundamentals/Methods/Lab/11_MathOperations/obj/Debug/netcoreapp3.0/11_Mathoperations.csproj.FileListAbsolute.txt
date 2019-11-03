@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\bin\Debug\netcoreapp3.0\11_Mathoperations.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\bin\Debug\netcoreapp3.0\11_Mathoperations.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\bin\Debug\netcoreapp3.0\11_Mathoperations.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\bin\Debug\netcoreapp3.0\11_Mathoperations.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\bin\Debug\netcoreapp3.0\11_Mathoperations.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\bin\Debug\netcoreapp3.0\11_Mathoperations.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\obj\Debug\netcoreapp3.0\11_Mathoperations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\obj\Debug\netcoreapp3.0\11_Mathoperations.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\obj\Debug\netcoreapp3.0\11_Mathoperations.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\11\obj\Debug\netcoreapp3.0\11_Mathoperations.pdb

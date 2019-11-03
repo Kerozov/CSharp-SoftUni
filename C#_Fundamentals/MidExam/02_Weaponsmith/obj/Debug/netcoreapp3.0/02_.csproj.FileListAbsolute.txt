@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\bin\Debug\netcoreapp3.0\02_.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\bin\Debug\netcoreapp3.0\02_.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\bin\Debug\netcoreapp3.0\02_.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\bin\Debug\netcoreapp3.0\02_.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\bin\Debug\netcoreapp3.0\02_.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\bin\Debug\netcoreapp3.0\02_.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\obj\Debug\netcoreapp3.0\02_.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\obj\Debug\netcoreapp3.0\02_.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\obj\Debug\netcoreapp3.0\02_.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\obj\Debug\netcoreapp3.0\02_.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\MidExam\MidExam\02_\obj\Debug\netcoreapp3.0\02_.pdb

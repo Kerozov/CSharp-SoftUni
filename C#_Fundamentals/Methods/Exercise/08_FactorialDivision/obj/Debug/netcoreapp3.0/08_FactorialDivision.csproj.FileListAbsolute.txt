@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\bin\Debug\netcoreapp3.0\08_FactorialDivision.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\bin\Debug\netcoreapp3.0\08_FactorialDivision.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\bin\Debug\netcoreapp3.0\08_FactorialDivision.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\bin\Debug\netcoreapp3.0\08_FactorialDivision.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\bin\Debug\netcoreapp3.0\08_FactorialDivision.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\bin\Debug\netcoreapp3.0\08_FactorialDivision.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\obj\Debug\netcoreapp3.0\08_FactorialDivision.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\obj\Debug\netcoreapp3.0\08_FactorialDivision.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\obj\Debug\netcoreapp3.0\08_FactorialDivision.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\08_FactorialDivision\obj\Debug\netcoreapp3.0\08_FactorialDivision.pdb

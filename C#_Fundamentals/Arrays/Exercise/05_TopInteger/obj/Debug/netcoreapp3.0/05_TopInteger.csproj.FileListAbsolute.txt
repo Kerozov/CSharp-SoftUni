@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\bin\Debug\netcoreapp3.0\05_TopInteger.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\bin\Debug\netcoreapp3.0\05_TopInteger.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\bin\Debug\netcoreapp3.0\05_TopInteger.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\bin\Debug\netcoreapp3.0\05_TopInteger.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\bin\Debug\netcoreapp3.0\05_TopInteger.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\bin\Debug\netcoreapp3.0\05_TopInteger.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\obj\Debug\netcoreapp3.0\05_TopInteger.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\obj\Debug\netcoreapp3.0\05_TopInteger.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\obj\Debug\netcoreapp3.0\05_TopInteger.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\obj\Debug\netcoreapp3.0\05_TopInteger.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\05_TopInteger\obj\Debug\netcoreapp3.0\05_TopInteger.pdb

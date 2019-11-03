@@ -1,0 +1,2 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\08_MathPower\obj\Debug\netcoreapp3.0\08_MathPower.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\08_MathPower\obj\Debug\netcoreapp3.0\08_MathPower.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\bin\Debug\netcoreapp3.0\02_ChangeList.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\bin\Debug\netcoreapp3.0\02_ChangeList.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\bin\Debug\netcoreapp3.0\02_ChangeList.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\bin\Debug\netcoreapp3.0\02_ChangeList.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\bin\Debug\netcoreapp3.0\02_ChangeList.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\bin\Debug\netcoreapp3.0\02_ChangeList.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\obj\Debug\netcoreapp3.0\02_ChangeList.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\obj\Debug\netcoreapp3.0\02_ChangeList.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\obj\Debug\netcoreapp3.0\02_ChangeList.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\obj\Debug\netcoreapp3.0\02_ChangeList.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\02_ChangeList\obj\Debug\netcoreapp3.0\02_ChangeList.pdb

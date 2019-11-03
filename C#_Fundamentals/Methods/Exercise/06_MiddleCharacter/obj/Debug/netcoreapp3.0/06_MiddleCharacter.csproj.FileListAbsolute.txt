@@ -1,0 +1,11 @@
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\obj\Debug\netcoreapp3.0\06_MiddleCharacter.AssemblyInfoInputs.cache
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\obj\Debug\netcoreapp3.0\06_MiddleCharacter.AssemblyInfo.cs
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\bin\Debug\netcoreapp3.0\06_MiddleCharacter.exe
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\bin\Debug\netcoreapp3.0\06_MiddleCharacter.deps.json
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\bin\Debug\netcoreapp3.0\06_MiddleCharacter.runtimeconfig.json
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\bin\Debug\netcoreapp3.0\06_MiddleCharacter.runtimeconfig.dev.json
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\bin\Debug\netcoreapp3.0\06_MiddleCharacter.dll
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\bin\Debug\netcoreapp3.0\06_MiddleCharacter.pdb
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\obj\Debug\netcoreapp3.0\06_MiddleCharacter.dll
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\obj\Debug\netcoreapp3.0\06_MiddleCharacter.pdb
+C:\Users\Zefir\source\repos\Demo\06_MiddleCharacter\obj\Debug\netcoreapp3.0\06_MiddleCharacter.csprojAssemblyReference.cache

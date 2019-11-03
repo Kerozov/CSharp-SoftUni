@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\bin\Debug\netcoreapp3.0\00_Demo.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\bin\Debug\netcoreapp3.0\00_Demo.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\bin\Debug\netcoreapp3.0\00_Demo.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\bin\Debug\netcoreapp3.0\00_Demo.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\bin\Debug\netcoreapp3.0\00_Demo.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\bin\Debug\netcoreapp3.0\00_Demo.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\obj\Debug\netcoreapp3.0\00_Demo.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\obj\Debug\netcoreapp3.0\00_Demo.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\obj\Debug\netcoreapp3.0\00_Demo.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\obj\Debug\netcoreapp3.0\00_Demo.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\kenov\Arrays\00_Demo\obj\Debug\netcoreapp3.0\00_Demo.pdb

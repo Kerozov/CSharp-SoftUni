@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\bin\Debug\netcoreapp3.0\01_EasterGifts.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\bin\Debug\netcoreapp3.0\01_EasterGifts.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\bin\Debug\netcoreapp3.0\01_EasterGifts.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\bin\Debug\netcoreapp3.0\01_EasterGifts.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\bin\Debug\netcoreapp3.0\01_EasterGifts.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\bin\Debug\netcoreapp3.0\01_EasterGifts.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\obj\Debug\netcoreapp3.0\01_EasterGifts.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\obj\Debug\netcoreapp3.0\01_EasterGifts.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\obj\Debug\netcoreapp3.0\01_EasterGifts.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\obj\Debug\netcoreapp3.0\01_EasterGifts.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\01_EasterGifts\obj\Debug\netcoreapp3.0\01_EasterGifts.pdb

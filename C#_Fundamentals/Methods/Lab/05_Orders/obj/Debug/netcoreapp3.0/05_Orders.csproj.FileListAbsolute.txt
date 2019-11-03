@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\bin\Debug\netcoreapp3.0\05_Orders.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\bin\Debug\netcoreapp3.0\05_Orders.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\bin\Debug\netcoreapp3.0\05_Orders.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\bin\Debug\netcoreapp3.0\05_Orders.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\bin\Debug\netcoreapp3.0\05_Orders.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\bin\Debug\netcoreapp3.0\05_Orders.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\obj\Debug\netcoreapp3.0\05_Orders.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\obj\Debug\netcoreapp3.0\05_Orders.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\obj\Debug\netcoreapp3.0\05_Orders.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\obj\Debug\netcoreapp3.0\05_Orders.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\05_Orders\obj\Debug\netcoreapp3.0\05_Orders.pdb

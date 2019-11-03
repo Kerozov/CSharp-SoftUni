@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\bin\Debug\netcoreapp3.0\07_RepeatString.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\bin\Debug\netcoreapp3.0\07_RepeatString.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\bin\Debug\netcoreapp3.0\07_RepeatString.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\bin\Debug\netcoreapp3.0\07_RepeatString.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\bin\Debug\netcoreapp3.0\07_RepeatString.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\bin\Debug\netcoreapp3.0\07_RepeatString.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\obj\Debug\netcoreapp3.0\07_RepeatString.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\obj\Debug\netcoreapp3.0\07_RepeatString.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\obj\Debug\netcoreapp3.0\07_RepeatString.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Methods\07_RepeatString\obj\Debug\netcoreapp3.0\07_RepeatString.pdb

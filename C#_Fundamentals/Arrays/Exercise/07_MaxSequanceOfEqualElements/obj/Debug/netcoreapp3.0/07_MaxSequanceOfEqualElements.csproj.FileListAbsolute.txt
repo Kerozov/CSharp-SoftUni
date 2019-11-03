@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\bin\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\bin\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\bin\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\bin\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\bin\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\bin\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\obj\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\obj\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\obj\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\obj\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Arrays\exercise\ExerciseArrays\07_MaxSequanceOfEqualElements\obj\Debug\netcoreapp3.0\07_MaxSequanceOfEqualElements.pdb

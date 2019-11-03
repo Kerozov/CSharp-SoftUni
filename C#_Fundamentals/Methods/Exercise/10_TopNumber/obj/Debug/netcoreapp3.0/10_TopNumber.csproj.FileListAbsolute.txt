@@ -1,0 +1,11 @@
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\bin\Debug\netcoreapp3.0\10_TopNumber.exe
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\bin\Debug\netcoreapp3.0\10_TopNumber.deps.json
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\bin\Debug\netcoreapp3.0\10_TopNumber.runtimeconfig.json
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\bin\Debug\netcoreapp3.0\10_TopNumber.runtimeconfig.dev.json
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\bin\Debug\netcoreapp3.0\10_TopNumber.dll
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\bin\Debug\netcoreapp3.0\10_TopNumber.pdb
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\obj\Debug\netcoreapp3.0\10_TopNumber.csprojAssemblyReference.cache
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\obj\Debug\netcoreapp3.0\10_TopNumber.AssemblyInfoInputs.cache
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\obj\Debug\netcoreapp3.0\10_TopNumber.AssemblyInfo.cs
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\obj\Debug\netcoreapp3.0\10_TopNumber.dll
+C:\Users\Zefir\source\repos\Demo\10_TopNumber\obj\Debug\netcoreapp3.0\10_TopNumber.pdb

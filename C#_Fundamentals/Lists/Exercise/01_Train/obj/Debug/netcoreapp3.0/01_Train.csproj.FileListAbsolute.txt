@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\bin\Debug\netcoreapp3.0\01_Train.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\bin\Debug\netcoreapp3.0\01_Train.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\bin\Debug\netcoreapp3.0\01_Train.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\bin\Debug\netcoreapp3.0\01_Train.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\bin\Debug\netcoreapp3.0\01_Train.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\bin\Debug\netcoreapp3.0\01_Train.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\obj\Debug\netcoreapp3.0\01_Train.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\obj\Debug\netcoreapp3.0\01_Train.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\obj\Debug\netcoreapp3.0\01_Train.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\obj\Debug\netcoreapp3.0\01_Train.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lists\exercise\exercise\01_Train\obj\Debug\netcoreapp3.0\01_Train.pdb

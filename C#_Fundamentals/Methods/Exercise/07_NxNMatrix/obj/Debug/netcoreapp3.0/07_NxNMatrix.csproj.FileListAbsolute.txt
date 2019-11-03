@@ -1,0 +1,10 @@
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\bin\Debug\netcoreapp3.0\07_NxNMatrix.exe
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\bin\Debug\netcoreapp3.0\07_NxNMatrix.deps.json
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\bin\Debug\netcoreapp3.0\07_NxNMatrix.runtimeconfig.json
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\bin\Debug\netcoreapp3.0\07_NxNMatrix.runtimeconfig.dev.json
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\bin\Debug\netcoreapp3.0\07_NxNMatrix.dll
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\bin\Debug\netcoreapp3.0\07_NxNMatrix.pdb
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\obj\Debug\netcoreapp3.0\07_NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\obj\Debug\netcoreapp3.0\07_NxNMatrix.AssemblyInfo.cs
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\obj\Debug\netcoreapp3.0\07_NxNMatrix.dll
+C:\Users\Zefir\source\repos\Demo\07_NxNMatrix\obj\Debug\netcoreapp3.0\07_NxNMatrix.pdb

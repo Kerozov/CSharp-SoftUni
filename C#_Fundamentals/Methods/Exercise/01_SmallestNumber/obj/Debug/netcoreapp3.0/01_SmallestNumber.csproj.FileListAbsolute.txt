@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\bin\Debug\netcoreapp3.0\01_SmallestNumber.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\bin\Debug\netcoreapp3.0\01_SmallestNumber.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\bin\Debug\netcoreapp3.0\01_SmallestNumber.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\bin\Debug\netcoreapp3.0\01_SmallestNumber.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\bin\Debug\netcoreapp3.0\01_SmallestNumber.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\bin\Debug\netcoreapp3.0\01_SmallestNumber.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\obj\Debug\netcoreapp3.0\01_SmallestNumber.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\obj\Debug\netcoreapp3.0\01_SmallestNumber.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\obj\Debug\netcoreapp3.0\01_SmallestNumber.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\obj\Debug\netcoreapp3.0\01_SmallestNumber.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Methods\Exercise\01_SmallestNumber\obj\Debug\netcoreapp3.0\01_SmallestNumber.pdb
