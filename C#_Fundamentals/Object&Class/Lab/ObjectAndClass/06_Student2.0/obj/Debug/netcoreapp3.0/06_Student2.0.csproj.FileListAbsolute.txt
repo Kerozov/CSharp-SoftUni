@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\bin\Debug\netcoreapp3.0\06_Student2.0.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\bin\Debug\netcoreapp3.0\06_Student2.0.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\bin\Debug\netcoreapp3.0\06_Student2.0.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\bin\Debug\netcoreapp3.0\06_Student2.0.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\bin\Debug\netcoreapp3.0\06_Student2.0.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\bin\Debug\netcoreapp3.0\06_Student2.0.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\obj\Debug\netcoreapp3.0\06_Student2.0.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\obj\Debug\netcoreapp3.0\06_Student2.0.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\obj\Debug\netcoreapp3.0\06_Student2.0.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\obj\Debug\netcoreapp3.0\06_Student2.0.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\06_Student2.0\obj\Debug\netcoreapp3.0\06_Student2.0.pdb

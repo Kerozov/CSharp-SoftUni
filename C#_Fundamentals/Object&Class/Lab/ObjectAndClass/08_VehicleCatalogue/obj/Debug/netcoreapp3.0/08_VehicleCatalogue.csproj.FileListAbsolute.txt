@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\bin\Debug\netcoreapp3.0\08_VehicleCatalogue.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\bin\Debug\netcoreapp3.0\08_VehicleCatalogue.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\bin\Debug\netcoreapp3.0\08_VehicleCatalogue.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\bin\Debug\netcoreapp3.0\08_VehicleCatalogue.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\bin\Debug\netcoreapp3.0\08_VehicleCatalogue.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\bin\Debug\netcoreapp3.0\08_VehicleCatalogue.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\obj\Debug\netcoreapp3.0\08_VehicleCatalogue.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\obj\Debug\netcoreapp3.0\08_VehicleCatalogue.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\obj\Debug\netcoreapp3.0\08_VehicleCatalogue.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\obj\Debug\netcoreapp3.0\08_VehicleCatalogue.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\08_VehicleCatalogue\obj\Debug\netcoreapp3.0\08_VehicleCatalogue.pdb

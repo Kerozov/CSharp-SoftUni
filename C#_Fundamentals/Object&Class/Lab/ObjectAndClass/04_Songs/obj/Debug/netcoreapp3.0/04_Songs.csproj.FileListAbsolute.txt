@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\bin\Debug\netcoreapp3.0\04_Songs.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\bin\Debug\netcoreapp3.0\04_Songs.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\bin\Debug\netcoreapp3.0\04_Songs.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\bin\Debug\netcoreapp3.0\04_Songs.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\bin\Debug\netcoreapp3.0\04_Songs.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\bin\Debug\netcoreapp3.0\04_Songs.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\obj\Debug\netcoreapp3.0\04_Songs.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\obj\Debug\netcoreapp3.0\04_Songs.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\obj\Debug\netcoreapp3.0\04_Songs.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\obj\Debug\netcoreapp3.0\04_Songs.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\04_Songs\obj\Debug\netcoreapp3.0\04_Songs.pdb

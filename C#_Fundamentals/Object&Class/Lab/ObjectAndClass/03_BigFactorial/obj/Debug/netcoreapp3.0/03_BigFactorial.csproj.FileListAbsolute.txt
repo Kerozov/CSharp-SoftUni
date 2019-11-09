@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\bin\Debug\netcoreapp3.0\03_BigFactorial.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\bin\Debug\netcoreapp3.0\03_BigFactorial.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\bin\Debug\netcoreapp3.0\03_BigFactorial.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\bin\Debug\netcoreapp3.0\03_BigFactorial.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\bin\Debug\netcoreapp3.0\03_BigFactorial.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\bin\Debug\netcoreapp3.0\03_BigFactorial.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\obj\Debug\netcoreapp3.0\03_BigFactorial.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\obj\Debug\netcoreapp3.0\03_BigFactorial.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\obj\Debug\netcoreapp3.0\03_BigFactorial.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\obj\Debug\netcoreapp3.0\03_BigFactorial.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\03_BigFactorial\obj\Debug\netcoreapp3.0\03_BigFactorial.pdb

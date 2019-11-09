@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\obj\Debug\netcoreapp3.0\07_ StoreBoxes.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\obj\Debug\netcoreapp3.0\07_ StoreBoxes.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\obj\Debug\netcoreapp3.0\07_ StoreBoxes.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\bin\Debug\netcoreapp3.0\07_ StoreBoxes.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\bin\Debug\netcoreapp3.0\07_ StoreBoxes.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\bin\Debug\netcoreapp3.0\07_ StoreBoxes.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\bin\Debug\netcoreapp3.0\07_ StoreBoxes.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\bin\Debug\netcoreapp3.0\07_ StoreBoxes.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\bin\Debug\netcoreapp3.0\07_ StoreBoxes.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\obj\Debug\netcoreapp3.0\07_ StoreBoxes.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Lab\ObjectAndClass\07_\obj\Debug\netcoreapp3.0\07_ StoreBoxes.pdb
