@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\bin\Debug\netcoreapp3.0\01_StringManipulator.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\bin\Debug\netcoreapp3.0\01_StringManipulator.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\bin\Debug\netcoreapp3.0\01_StringManipulator.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\bin\Debug\netcoreapp3.0\01_StringManipulator.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\bin\Debug\netcoreapp3.0\01_StringManipulator.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\bin\Debug\netcoreapp3.0\01_StringManipulator.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\obj\Debug\netcoreapp3.0\01_StringManipulator.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\obj\Debug\netcoreapp3.0\01_StringManipulator.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\obj\Debug\netcoreapp3.0\01_StringManipulator.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\obj\Debug\netcoreapp3.0\01_StringManipulator.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\01_StringManipulator\obj\Debug\netcoreapp3.0\01_StringManipulator.pdb

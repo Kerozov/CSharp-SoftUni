@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\obj\Debug\netcoreapp3.0\01_AdvertisementMessage.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\obj\Debug\netcoreapp3.0\01_AdvertisementMessage.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\obj\Debug\netcoreapp3.0\01_AdvertisementMessage.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\bin\Debug\netcoreapp3.0\01_AdvertisementMessage.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\bin\Debug\netcoreapp3.0\01_AdvertisementMessage.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\bin\Debug\netcoreapp3.0\01_AdvertisementMessage.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\bin\Debug\netcoreapp3.0\01_AdvertisementMessage.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\bin\Debug\netcoreapp3.0\01_AdvertisementMessage.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\bin\Debug\netcoreapp3.0\01_AdvertisementMessage.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\obj\Debug\netcoreapp3.0\01_AdvertisementMessage.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\01_AdvertisementMessage\obj\Debug\netcoreapp3.0\01_AdvertisementMessage.pdb

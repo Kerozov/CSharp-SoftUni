@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\obj\Debug\netcoreapp3.0\03_SoftUniBarIncome.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\obj\Debug\netcoreapp3.0\03_SoftUniBarIncome.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\obj\Debug\netcoreapp3.0\03_SoftUniBarIncome.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\bin\Debug\netcoreapp3.0\03_SoftUniBarIncome.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\bin\Debug\netcoreapp3.0\03_SoftUniBarIncome.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\bin\Debug\netcoreapp3.0\03_SoftUniBarIncome.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\bin\Debug\netcoreapp3.0\03_SoftUniBarIncome.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\bin\Debug\netcoreapp3.0\03_SoftUniBarIncome.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\bin\Debug\netcoreapp3.0\03_SoftUniBarIncome.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\obj\Debug\netcoreapp3.0\03_SoftUniBarIncome.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\03_SoftUniBarIncome\obj\Debug\netcoreapp3.0\03_SoftUniBarIncome.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "07_ StringExplosion/1.0.0": {
+        "runtime": {
+          "07_ StringExplosion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07_ StringExplosion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

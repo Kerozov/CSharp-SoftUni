@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\bin\Debug\netcoreapp3.0\04_CaesarCipher.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\bin\Debug\netcoreapp3.0\04_CaesarCipher.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\bin\Debug\netcoreapp3.0\04_CaesarCipher.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\bin\Debug\netcoreapp3.0\04_CaesarCipher.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\bin\Debug\netcoreapp3.0\04_CaesarCipher.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\bin\Debug\netcoreapp3.0\04_CaesarCipher.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\obj\Debug\netcoreapp3.0\04_CaesarCipher.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\obj\Debug\netcoreapp3.0\04_CaesarCipher.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\obj\Debug\netcoreapp3.0\04_CaesarCipher.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\obj\Debug\netcoreapp3.0\04_CaesarCipher.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\04_CaesarCipher\obj\Debug\netcoreapp3.0\04_CaesarCipher.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\obj\Debug\netcoreapp3.0\03_ArticlesTwo.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\obj\Debug\netcoreapp3.0\03_ArticlesTwo.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\obj\Debug\netcoreapp3.0\03_ArticlesTwo.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\bin\Debug\netcoreapp3.0\03_ArticlesTwo.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\bin\Debug\netcoreapp3.0\03_ArticlesTwo.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\bin\Debug\netcoreapp3.0\03_ArticlesTwo.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\bin\Debug\netcoreapp3.0\03_ArticlesTwo.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\bin\Debug\netcoreapp3.0\03_ArticlesTwo.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\bin\Debug\netcoreapp3.0\03_ArticlesTwo.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\obj\Debug\netcoreapp3.0\03_ArticlesTwo.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Object&Class\Exercice\ObjectAndClses-Exercise\03_ArticlesTwo\obj\Debug\netcoreapp3.0\03_ArticlesTwo.pdb

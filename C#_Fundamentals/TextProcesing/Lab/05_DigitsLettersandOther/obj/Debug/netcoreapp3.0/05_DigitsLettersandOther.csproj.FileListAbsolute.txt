@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\bin\Debug\netcoreapp3.0\05_DigitsLettersandOther.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\bin\Debug\netcoreapp3.0\05_DigitsLettersandOther.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\bin\Debug\netcoreapp3.0\05_DigitsLettersandOther.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\bin\Debug\netcoreapp3.0\05_DigitsLettersandOther.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\bin\Debug\netcoreapp3.0\05_DigitsLettersandOther.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\bin\Debug\netcoreapp3.0\05_DigitsLettersandOther.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\obj\Debug\netcoreapp3.0\05_DigitsLettersandOther.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\obj\Debug\netcoreapp3.0\05_DigitsLettersandOther.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\obj\Debug\netcoreapp3.0\05_DigitsLettersandOther.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\obj\Debug\netcoreapp3.0\05_DigitsLettersandOther.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\05_DigitsLettersandOther\obj\Debug\netcoreapp3.0\05_DigitsLettersandOther.pdb

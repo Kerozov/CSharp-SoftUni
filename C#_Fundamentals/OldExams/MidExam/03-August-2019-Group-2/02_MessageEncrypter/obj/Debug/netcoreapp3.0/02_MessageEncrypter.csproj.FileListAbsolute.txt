@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\obj\Debug\netcoreapp3.0\02_MessageEncrypter.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\obj\Debug\netcoreapp3.0\02_MessageEncrypter.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\obj\Debug\netcoreapp3.0\02_MessageEncrypter.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\bin\Debug\netcoreapp3.0\02_MessageEncrypter.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\bin\Debug\netcoreapp3.0\02_MessageEncrypter.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\bin\Debug\netcoreapp3.0\02_MessageEncrypter.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\bin\Debug\netcoreapp3.0\02_MessageEncrypter.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\bin\Debug\netcoreapp3.0\02_MessageEncrypter.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\bin\Debug\netcoreapp3.0\02_MessageEncrypter.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\obj\Debug\netcoreapp3.0\02_MessageEncrypter.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\02_MessageEncrypter\obj\Debug\netcoreapp3.0\02_MessageEncrypter.pdb

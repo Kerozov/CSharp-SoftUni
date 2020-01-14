@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\bin\Debug\netcoreapp3.0\03_EasterShopping.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\bin\Debug\netcoreapp3.0\03_EasterShopping.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\bin\Debug\netcoreapp3.0\03_EasterShopping.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\bin\Debug\netcoreapp3.0\03_EasterShopping.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\bin\Debug\netcoreapp3.0\03_EasterShopping.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\bin\Debug\netcoreapp3.0\03_EasterShopping.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\obj\Debug\netcoreapp3.0\03_EasterShopping.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\obj\Debug\netcoreapp3.0\03_EasterShopping.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\obj\Debug\netcoreapp3.0\03_EasterShopping.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\obj\Debug\netcoreapp3.0\03_EasterShopping.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Old-Exams\OldMidExam1\OldMidExam16Aprol\03_EasterShopping\obj\Debug\netcoreapp3.0\03_EasterShopping.pdb

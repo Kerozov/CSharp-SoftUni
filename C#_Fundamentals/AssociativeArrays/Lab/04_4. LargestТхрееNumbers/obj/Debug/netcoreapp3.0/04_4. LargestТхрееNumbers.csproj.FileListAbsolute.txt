@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\bin\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\bin\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\bin\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\bin\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\bin\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\bin\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\obj\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\obj\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\obj\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\04_4. LargestТхрееNumbers\obj\Debug\netcoreapp3.0\04_4. LargestТхрееNumbers.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\bin\Debug\netcoreapp3.0\09_ForceBook.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\bin\Debug\netcoreapp3.0\09_ForceBook.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\bin\Debug\netcoreapp3.0\09_ForceBook.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\bin\Debug\netcoreapp3.0\09_ForceBook.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\bin\Debug\netcoreapp3.0\09_ForceBook.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\bin\Debug\netcoreapp3.0\09_ForceBook.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\obj\Debug\netcoreapp3.0\09_ForceBook.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\obj\Debug\netcoreapp3.0\09_ForceBook.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\obj\Debug\netcoreapp3.0\09_ForceBook.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\obj\Debug\netcoreapp3.0\09_ForceBook.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\Exercise\09_ForceBook\obj\Debug\netcoreapp3.0\09_ForceBook.pdb

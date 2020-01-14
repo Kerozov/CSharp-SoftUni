@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\bin\Debug\netcoreapp3.0\01_.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\bin\Debug\netcoreapp3.0\01_.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\bin\Debug\netcoreapp3.0\01_.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\bin\Debug\netcoreapp3.0\01_.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\bin\Debug\netcoreapp3.0\01_.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\bin\Debug\netcoreapp3.0\01_.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\obj\Debug\netcoreapp3.0\01_.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\obj\Debug\netcoreapp3.0\01_.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\obj\Debug\netcoreapp3.0\01_.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\obj\Debug\netcoreapp3.0\01_.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Exercise\01_\obj\Debug\netcoreapp3.0\01_.pdb

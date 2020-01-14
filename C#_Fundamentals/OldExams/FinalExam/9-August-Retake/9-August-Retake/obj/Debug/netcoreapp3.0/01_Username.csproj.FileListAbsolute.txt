@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\bin\Debug\netcoreapp3.0\01_Username.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\bin\Debug\netcoreapp3.0\01_Username.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\bin\Debug\netcoreapp3.0\01_Username.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\bin\Debug\netcoreapp3.0\01_Username.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\bin\Debug\netcoreapp3.0\01_Username.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\bin\Debug\netcoreapp3.0\01_Username.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\obj\Debug\netcoreapp3.0\01_Username.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\obj\Debug\netcoreapp3.0\01_Username.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\obj\Debug\netcoreapp3.0\01_Username.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\obj\Debug\netcoreapp3.0\01_Username.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\9-August-Retake\9-August-Retake\obj\Debug\netcoreapp3.0\01_Username.pdb

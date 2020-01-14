@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\bin\Debug\netcoreapp3.0\01_MatchFullName.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\bin\Debug\netcoreapp3.0\01_MatchFullName.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\bin\Debug\netcoreapp3.0\01_MatchFullName.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\bin\Debug\netcoreapp3.0\01_MatchFullName.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\bin\Debug\netcoreapp3.0\01_MatchFullName.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\bin\Debug\netcoreapp3.0\01_MatchFullName.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\obj\Debug\netcoreapp3.0\01_MatchFullName.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\obj\Debug\netcoreapp3.0\01_MatchFullName.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\obj\Debug\netcoreapp3.0\01_MatchFullName.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\obj\Debug\netcoreapp3.0\01_MatchFullName.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\01_MatchFullName\obj\Debug\netcoreapp3.0\01_MatchFullName.pdb

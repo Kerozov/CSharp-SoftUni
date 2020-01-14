@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\bin\Debug\netcoreapp3.0\04_TextFilter.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\bin\Debug\netcoreapp3.0\04_TextFilter.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\bin\Debug\netcoreapp3.0\04_TextFilter.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\bin\Debug\netcoreapp3.0\04_TextFilter.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\bin\Debug\netcoreapp3.0\04_TextFilter.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\bin\Debug\netcoreapp3.0\04_TextFilter.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\obj\Debug\netcoreapp3.0\04_TextFilter.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\obj\Debug\netcoreapp3.0\04_TextFilter.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\obj\Debug\netcoreapp3.0\04_TextFilter.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\obj\Debug\netcoreapp3.0\04_TextFilter.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\04_TextFilter\obj\Debug\netcoreapp3.0\04_TextFilter.pdb

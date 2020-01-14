@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\bin\Debug\netcoreapp3.0\03_ExtractFile.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\bin\Debug\netcoreapp3.0\03_ExtractFile.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\bin\Debug\netcoreapp3.0\03_ExtractFile.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\bin\Debug\netcoreapp3.0\03_ExtractFile.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\bin\Debug\netcoreapp3.0\03_ExtractFile.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\bin\Debug\netcoreapp3.0\03_ExtractFile.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\obj\Debug\netcoreapp3.0\03_ExtractFile.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\obj\Debug\netcoreapp3.0\03_ExtractFile.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\obj\Debug\netcoreapp3.0\03_ExtractFile.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\obj\Debug\netcoreapp3.0\03_ExtractFile.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\03_ExtractFile\obj\Debug\netcoreapp3.0\03_ExtractFile.pdb

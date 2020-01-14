@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\bin\Debug\netcoreapp3.0\02_MessageDecrypter.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\bin\Debug\netcoreapp3.0\02_MessageDecrypter.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\bin\Debug\netcoreapp3.0\02_MessageDecrypter.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\bin\Debug\netcoreapp3.0\02_MessageDecrypter.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\bin\Debug\netcoreapp3.0\02_MessageDecrypter.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\bin\Debug\netcoreapp3.0\02_MessageDecrypter.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\obj\Debug\netcoreapp3.0\02_MessageDecrypter.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\obj\Debug\netcoreapp3.0\02_MessageDecrypter.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\obj\Debug\netcoreapp3.0\02_MessageDecrypter.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\obj\Debug\netcoreapp3.0\02_MessageDecrypter.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\03-August-Group-1\02_MessageDecrypter\obj\Debug\netcoreapp3.0\02_MessageDecrypter.pdb

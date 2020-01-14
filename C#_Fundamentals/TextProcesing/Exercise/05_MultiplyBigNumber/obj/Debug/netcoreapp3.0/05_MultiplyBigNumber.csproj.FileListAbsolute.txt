@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\bin\Debug\netcoreapp3.0\05_MultiplyBigNumber.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\bin\Debug\netcoreapp3.0\05_MultiplyBigNumber.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\bin\Debug\netcoreapp3.0\05_MultiplyBigNumber.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\bin\Debug\netcoreapp3.0\05_MultiplyBigNumber.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\bin\Debug\netcoreapp3.0\05_MultiplyBigNumber.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\bin\Debug\netcoreapp3.0\05_MultiplyBigNumber.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\obj\Debug\netcoreapp3.0\05_MultiplyBigNumber.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\obj\Debug\netcoreapp3.0\05_MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\obj\Debug\netcoreapp3.0\05_MultiplyBigNumber.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\obj\Debug\netcoreapp3.0\05_MultiplyBigNumber.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\05_MultiplyBigNumber\obj\Debug\netcoreapp3.0\05_MultiplyBigNumber.pdb

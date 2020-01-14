@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\bin\Debug\netcoreapp3.0\03_MatchDates.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\bin\Debug\netcoreapp3.0\03_MatchDates.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\bin\Debug\netcoreapp3.0\03_MatchDates.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\bin\Debug\netcoreapp3.0\03_MatchDates.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\bin\Debug\netcoreapp3.0\03_MatchDates.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\bin\Debug\netcoreapp3.0\03_MatchDates.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\obj\Debug\netcoreapp3.0\03_MatchDates.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\obj\Debug\netcoreapp3.0\03_MatchDates.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\obj\Debug\netcoreapp3.0\03_MatchDates.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\obj\Debug\netcoreapp3.0\03_MatchDates.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\Lab\03_MatchDates\obj\Debug\netcoreapp3.0\03_MatchDates.pdb

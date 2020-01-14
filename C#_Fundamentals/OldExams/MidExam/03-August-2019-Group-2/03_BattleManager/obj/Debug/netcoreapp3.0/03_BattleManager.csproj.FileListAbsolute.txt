@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\bin\Debug\netcoreapp3.0\03_BattleManager.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\bin\Debug\netcoreapp3.0\03_BattleManager.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\bin\Debug\netcoreapp3.0\03_BattleManager.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\bin\Debug\netcoreapp3.0\03_BattleManager.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\bin\Debug\netcoreapp3.0\03_BattleManager.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\bin\Debug\netcoreapp3.0\03_BattleManager.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\obj\Debug\netcoreapp3.0\03_BattleManager.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\obj\Debug\netcoreapp3.0\03_BattleManager.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\obj\Debug\netcoreapp3.0\03_BattleManager.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\obj\Debug\netcoreapp3.0\03_BattleManager.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Regex\03-August-2019-Group-2\03_BattleManager\obj\Debug\netcoreapp3.0\03_BattleManager.pdb

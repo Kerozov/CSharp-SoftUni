@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\bin\Debug\netcoreapp3.0\01_ReverseString.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\bin\Debug\netcoreapp3.0\01_ReverseString.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\bin\Debug\netcoreapp3.0\01_ReverseString.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\bin\Debug\netcoreapp3.0\01_ReverseString.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\bin\Debug\netcoreapp3.0\01_ReverseString.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\bin\Debug\netcoreapp3.0\01_ReverseString.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\obj\Debug\netcoreapp3.0\01_ReverseString.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\obj\Debug\netcoreapp3.0\01_ReverseString.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\obj\Debug\netcoreapp3.0\01_ReverseString.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\obj\Debug\netcoreapp3.0\01_ReverseString.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Lab\01_ReverseString\obj\Debug\netcoreapp3.0\01_ReverseString.pdb

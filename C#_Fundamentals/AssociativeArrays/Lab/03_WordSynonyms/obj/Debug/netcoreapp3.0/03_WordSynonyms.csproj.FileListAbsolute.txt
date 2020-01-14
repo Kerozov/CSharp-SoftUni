@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\bin\Debug\netcoreapp3.0\03_WordSynonyms.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\bin\Debug\netcoreapp3.0\03_WordSynonyms.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\bin\Debug\netcoreapp3.0\03_WordSynonyms.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\bin\Debug\netcoreapp3.0\03_WordSynonyms.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\bin\Debug\netcoreapp3.0\03_WordSynonyms.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\bin\Debug\netcoreapp3.0\03_WordSynonyms.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\obj\Debug\netcoreapp3.0\03_WordSynonyms.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\obj\Debug\netcoreapp3.0\03_WordSynonyms.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\obj\Debug\netcoreapp3.0\03_WordSynonyms.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\obj\Debug\netcoreapp3.0\03_WordSynonyms.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\AssociativeArrays\AssociativeArrays\03_WordSynonyms\obj\Debug\netcoreapp3.0\03_WordSynonyms.pdb

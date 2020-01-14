@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\bin\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\bin\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\bin\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\bin\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\bin\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\bin\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\obj\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\obj\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\obj\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\obj\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\TextProcesing\Exercise\06_ReplaceRepeatingChars\obj\Debug\netcoreapp3.0\06_ReplaceRepeatingChars.pdb
