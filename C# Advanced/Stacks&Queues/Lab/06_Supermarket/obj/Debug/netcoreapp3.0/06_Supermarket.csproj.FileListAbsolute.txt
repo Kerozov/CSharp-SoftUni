@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\bin\Debug\netcoreapp3.0\06_Supermarket.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\bin\Debug\netcoreapp3.0\06_Supermarket.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\bin\Debug\netcoreapp3.0\06_Supermarket.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\bin\Debug\netcoreapp3.0\06_Supermarket.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\bin\Debug\netcoreapp3.0\06_Supermarket.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\bin\Debug\netcoreapp3.0\06_Supermarket.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\obj\Debug\netcoreapp3.0\06_Supermarket.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\obj\Debug\netcoreapp3.0\06_Supermarket.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\obj\Debug\netcoreapp3.0\06_Supermarket.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\obj\Debug\netcoreapp3.0\06_Supermarket.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\06_Supermarket\obj\Debug\netcoreapp3.0\06_Supermarket.pdb

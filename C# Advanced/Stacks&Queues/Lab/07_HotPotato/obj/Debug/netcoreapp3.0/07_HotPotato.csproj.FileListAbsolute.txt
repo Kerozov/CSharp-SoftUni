@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\obj\Debug\netcoreapp3.0\07_HotPotato.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\obj\Debug\netcoreapp3.0\07_HotPotato.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\obj\Debug\netcoreapp3.0\07_HotPotato.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\bin\Debug\netcoreapp3.0\07_HotPotato.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\bin\Debug\netcoreapp3.0\07_HotPotato.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\bin\Debug\netcoreapp3.0\07_HotPotato.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\bin\Debug\netcoreapp3.0\07_HotPotato.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\bin\Debug\netcoreapp3.0\07_HotPotato.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\bin\Debug\netcoreapp3.0\07_HotPotato.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\obj\Debug\netcoreapp3.0\07_HotPotato.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\7_HotPotato\obj\Debug\netcoreapp3.0\07_HotPotato.pdb

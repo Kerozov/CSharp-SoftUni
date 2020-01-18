@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\bin\Debug\netcoreapp3.0\02_StackSum.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\bin\Debug\netcoreapp3.0\02_StackSum.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\bin\Debug\netcoreapp3.0\02_StackSum.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\bin\Debug\netcoreapp3.0\02_StackSum.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\bin\Debug\netcoreapp3.0\02_StackSum.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\bin\Debug\netcoreapp3.0\02_StackSum.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\obj\Debug\netcoreapp3.0\02_StackSum.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\obj\Debug\netcoreapp3.0\02_StackSum.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\obj\Debug\netcoreapp3.0\02_StackSum.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\obj\Debug\netcoreapp3.0\02_StackSum.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Stacks&Queues\Lab\02_StackSum\obj\Debug\netcoreapp3.0\02_StackSum.pdb
