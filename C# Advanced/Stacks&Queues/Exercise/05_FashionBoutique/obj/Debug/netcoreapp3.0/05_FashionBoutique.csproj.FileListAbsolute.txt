@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\bin\Debug\netcoreapp3.0\05_FashionBoutique.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\bin\Debug\netcoreapp3.0\05_FashionBoutique.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\bin\Debug\netcoreapp3.0\05_FashionBoutique.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\bin\Debug\netcoreapp3.0\05_FashionBoutique.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\bin\Debug\netcoreapp3.0\05_FashionBoutique.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\bin\Debug\netcoreapp3.0\05_FashionBoutique.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\obj\Debug\netcoreapp3.0\05_FashionBoutique.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\obj\Debug\netcoreapp3.0\05_FashionBoutique.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\obj\Debug\netcoreapp3.0\05_FashionBoutique.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\obj\Debug\netcoreapp3.0\05_FashionBoutique.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\05_FashionBoutique\obj\Debug\netcoreapp3.0\05_FashionBoutique.pdb

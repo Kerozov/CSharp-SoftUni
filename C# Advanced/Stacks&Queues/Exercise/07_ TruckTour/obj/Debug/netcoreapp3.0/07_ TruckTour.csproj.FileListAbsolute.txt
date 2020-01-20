@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\bin\Debug\netcoreapp3.0\07_ TruckTour.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\bin\Debug\netcoreapp3.0\07_ TruckTour.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\bin\Debug\netcoreapp3.0\07_ TruckTour.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\bin\Debug\netcoreapp3.0\07_ TruckTour.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\bin\Debug\netcoreapp3.0\07_ TruckTour.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\bin\Debug\netcoreapp3.0\07_ TruckTour.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\obj\Debug\netcoreapp3.0\07_ TruckTour.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\obj\Debug\netcoreapp3.0\07_ TruckTour.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\obj\Debug\netcoreapp3.0\07_ TruckTour.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\obj\Debug\netcoreapp3.0\07_ TruckTour.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\07_ TruckTour\obj\Debug\netcoreapp3.0\07_ TruckTour.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "02_BasicQueueOperations/1.0.0": {
+        "runtime": {
+          "02_BasicQueueOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_BasicQueueOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

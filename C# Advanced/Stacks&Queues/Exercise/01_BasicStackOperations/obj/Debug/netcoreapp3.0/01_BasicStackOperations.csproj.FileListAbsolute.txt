@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\bin\Debug\netcoreapp3.0\01_BasicStackOperations.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\bin\Debug\netcoreapp3.0\01_BasicStackOperations.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\bin\Debug\netcoreapp3.0\01_BasicStackOperations.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\bin\Debug\netcoreapp3.0\01_BasicStackOperations.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\bin\Debug\netcoreapp3.0\01_BasicStackOperations.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\bin\Debug\netcoreapp3.0\01_BasicStackOperations.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\obj\Debug\netcoreapp3.0\01_BasicStackOperations.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\obj\Debug\netcoreapp3.0\01_BasicStackOperations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\obj\Debug\netcoreapp3.0\01_BasicStackOperations.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\obj\Debug\netcoreapp3.0\01_BasicStackOperations.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\01_BasicStackOperations\obj\Debug\netcoreapp3.0\01_BasicStackOperations.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\bin\Debug\netcoreapp3.0\08_BalancedParenthesis.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\bin\Debug\netcoreapp3.0\08_BalancedParenthesis.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\bin\Debug\netcoreapp3.0\08_BalancedParenthesis.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\bin\Debug\netcoreapp3.0\08_BalancedParenthesis.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\bin\Debug\netcoreapp3.0\08_BalancedParenthesis.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\bin\Debug\netcoreapp3.0\08_BalancedParenthesis.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\obj\Debug\netcoreapp3.0\08_BalancedParenthesis.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\obj\Debug\netcoreapp3.0\08_BalancedParenthesis.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\obj\Debug\netcoreapp3.0\08_BalancedParenthesis.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\obj\Debug\netcoreapp3.0\08_BalancedParenthesis.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\08_BalancedParenthesis\obj\Debug\netcoreapp3.0\08_BalancedParenthesis.pdb

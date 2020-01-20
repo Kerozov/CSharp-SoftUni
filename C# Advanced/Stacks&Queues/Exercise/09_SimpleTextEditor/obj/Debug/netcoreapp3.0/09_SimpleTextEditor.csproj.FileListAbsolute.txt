@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\bin\Debug\netcoreapp3.0\09_SimpleTextEditor.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\bin\Debug\netcoreapp3.0\09_SimpleTextEditor.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\bin\Debug\netcoreapp3.0\09_SimpleTextEditor.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\bin\Debug\netcoreapp3.0\09_SimpleTextEditor.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\bin\Debug\netcoreapp3.0\09_SimpleTextEditor.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\bin\Debug\netcoreapp3.0\09_SimpleTextEditor.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\obj\Debug\netcoreapp3.0\09_SimpleTextEditor.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\obj\Debug\netcoreapp3.0\09_SimpleTextEditor.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\obj\Debug\netcoreapp3.0\09_SimpleTextEditor.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\obj\Debug\netcoreapp3.0\09_SimpleTextEditor.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\09_SimpleTextEditor\obj\Debug\netcoreapp3.0\09_SimpleTextEditor.pdb

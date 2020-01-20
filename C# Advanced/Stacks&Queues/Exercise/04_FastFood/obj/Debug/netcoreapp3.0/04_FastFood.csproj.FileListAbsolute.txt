@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\bin\Debug\netcoreapp3.0\04_FastFood.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\bin\Debug\netcoreapp3.0\04_FastFood.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\bin\Debug\netcoreapp3.0\04_FastFood.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\bin\Debug\netcoreapp3.0\04_FastFood.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\bin\Debug\netcoreapp3.0\04_FastFood.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\bin\Debug\netcoreapp3.0\04_FastFood.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\obj\Debug\netcoreapp3.0\04_FastFood.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\obj\Debug\netcoreapp3.0\04_FastFood.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\obj\Debug\netcoreapp3.0\04_FastFood.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\obj\Debug\netcoreapp3.0\04_FastFood.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\04_FastFood\obj\Debug\netcoreapp3.0\04_FastFood.pdb

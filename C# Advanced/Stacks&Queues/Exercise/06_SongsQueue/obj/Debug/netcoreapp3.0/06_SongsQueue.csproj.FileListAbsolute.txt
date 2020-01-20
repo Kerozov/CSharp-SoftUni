@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\bin\Debug\netcoreapp3.0\06_SongsQueue.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\bin\Debug\netcoreapp3.0\06_SongsQueue.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\bin\Debug\netcoreapp3.0\06_SongsQueue.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\bin\Debug\netcoreapp3.0\06_SongsQueue.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\bin\Debug\netcoreapp3.0\06_SongsQueue.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\bin\Debug\netcoreapp3.0\06_SongsQueue.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\obj\Debug\netcoreapp3.0\06_SongsQueue.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\obj\Debug\netcoreapp3.0\06_SongsQueue.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\obj\Debug\netcoreapp3.0\06_SongsQueue.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\obj\Debug\netcoreapp3.0\06_SongsQueue.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\06_SongsQueue\obj\Debug\netcoreapp3.0\06_SongsQueue.csprojAssemblyReference.cache

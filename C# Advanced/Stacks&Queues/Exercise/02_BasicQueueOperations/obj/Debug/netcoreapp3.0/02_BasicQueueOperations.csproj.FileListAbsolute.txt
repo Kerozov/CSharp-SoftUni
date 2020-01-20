@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\bin\Debug\netcoreapp3.0\02_BasicQueueOperations.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\bin\Debug\netcoreapp3.0\02_BasicQueueOperations.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\bin\Debug\netcoreapp3.0\02_BasicQueueOperations.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\bin\Debug\netcoreapp3.0\02_BasicQueueOperations.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\bin\Debug\netcoreapp3.0\02_BasicQueueOperations.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\bin\Debug\netcoreapp3.0\02_BasicQueueOperations.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\obj\Debug\netcoreapp3.0\02_BasicQueueOperations.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\obj\Debug\netcoreapp3.0\02_BasicQueueOperations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\obj\Debug\netcoreapp3.0\02_BasicQueueOperations.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\obj\Debug\netcoreapp3.0\02_BasicQueueOperations.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Exercise\02_BasicQueueOperations\obj\Debug\netcoreapp3.0\02_BasicQueueOperations.pdb
