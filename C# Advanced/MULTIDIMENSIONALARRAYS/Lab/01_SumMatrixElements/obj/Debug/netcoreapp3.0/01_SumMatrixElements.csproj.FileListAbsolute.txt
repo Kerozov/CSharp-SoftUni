@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\bin\Debug\netcoreapp3.0\01_SumMatrixElements.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\bin\Debug\netcoreapp3.0\01_SumMatrixElements.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\bin\Debug\netcoreapp3.0\01_SumMatrixElements.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\bin\Debug\netcoreapp3.0\01_SumMatrixElements.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\bin\Debug\netcoreapp3.0\01_SumMatrixElements.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\bin\Debug\netcoreapp3.0\01_SumMatrixElements.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\obj\Debug\netcoreapp3.0\01_SumMatrixElements.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\obj\Debug\netcoreapp3.0\01_SumMatrixElements.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\obj\Debug\netcoreapp3.0\01_SumMatrixElements.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\obj\Debug\netcoreapp3.0\01_SumMatrixElements.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\01_SumMatrixElements\obj\Debug\netcoreapp3.0\01_SumMatrixElements.pdb

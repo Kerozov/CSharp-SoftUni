@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\bin\Debug\netcoreapp3.0\03_ PrimaryDiagonal.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\bin\Debug\netcoreapp3.0\03_ PrimaryDiagonal.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\bin\Debug\netcoreapp3.0\03_ PrimaryDiagonal.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\bin\Debug\netcoreapp3.0\03_ PrimaryDiagonal.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\bin\Debug\netcoreapp3.0\03_ PrimaryDiagonal.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\bin\Debug\netcoreapp3.0\03_ PrimaryDiagonal.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\obj\Debug\netcoreapp3.0\03_ PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\obj\Debug\netcoreapp3.0\03_ PrimaryDiagonal.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\obj\Debug\netcoreapp3.0\03_ PrimaryDiagonal.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\03_ PrimaryDiagonal\obj\Debug\netcoreapp3.0\03_ PrimaryDiagonal.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\bin\Debug\netcoreapp3.0\04_SymbolMatrix.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\bin\Debug\netcoreapp3.0\04_SymbolMatrix.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\bin\Debug\netcoreapp3.0\04_SymbolMatrix.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\bin\Debug\netcoreapp3.0\04_SymbolMatrix.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\bin\Debug\netcoreapp3.0\04_SymbolMatrix.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\bin\Debug\netcoreapp3.0\04_SymbolMatrix.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\obj\Debug\netcoreapp3.0\04_SymbolMatrix.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\obj\Debug\netcoreapp3.0\04_SymbolMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\obj\Debug\netcoreapp3.0\04_SymbolMatrix.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\obj\Debug\netcoreapp3.0\04_SymbolMatrix.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\04_SymbolMatrix\obj\Debug\netcoreapp3.0\04_SymbolMatrix.pdb

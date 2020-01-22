@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\bin\Debug\netcoreapp3.0\5_SquarewithMaximumSum.exe
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\bin\Debug\netcoreapp3.0\5_SquarewithMaximumSum.deps.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\bin\Debug\netcoreapp3.0\5_SquarewithMaximumSum.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\bin\Debug\netcoreapp3.0\5_SquarewithMaximumSum.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\bin\Debug\netcoreapp3.0\5_SquarewithMaximumSum.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\bin\Debug\netcoreapp3.0\5_SquarewithMaximumSum.pdb
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\obj\Debug\netcoreapp3.0\5_SquarewithMaximumSum.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\obj\Debug\netcoreapp3.0\5_SquarewithMaximumSum.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\obj\Debug\netcoreapp3.0\5_SquarewithMaximumSum.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\obj\Debug\netcoreapp3.0\5_SquarewithMaximumSum.dll
+D:\SoftUni\CSharp-Software-University\C#_Fundamentals\Lab\5_SquarewithMaximumSum\obj\Debug\netcoreapp3.0\5_SquarewithMaximumSum.pdb
