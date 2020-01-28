@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\bin\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\bin\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\bin\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\bin\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\bin\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\bin\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\obj\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\obj\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\obj\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\obj\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\02_2X2SquaresinMatrix\obj\Debug\netcoreapp3.0\02_2X2SquaresinMatrix.pdb

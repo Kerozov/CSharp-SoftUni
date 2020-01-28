@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\bin\Debug\netcoreapp3.0\04_MatrixShuffling.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\bin\Debug\netcoreapp3.0\04_MatrixShuffling.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\bin\Debug\netcoreapp3.0\04_MatrixShuffling.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\bin\Debug\netcoreapp3.0\04_MatrixShuffling.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\bin\Debug\netcoreapp3.0\04_MatrixShuffling.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\bin\Debug\netcoreapp3.0\04_MatrixShuffling.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\obj\Debug\netcoreapp3.0\04_MatrixShuffling.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\obj\Debug\netcoreapp3.0\04_MatrixShuffling.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\obj\Debug\netcoreapp3.0\04_MatrixShuffling.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\obj\Debug\netcoreapp3.0\04_MatrixShuffling.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\MULTIDIMENSIONALARRAYS\Exercise\04_MatrixShuffling\obj\Debug\netcoreapp3.0\04_MatrixShuffling.pdb
