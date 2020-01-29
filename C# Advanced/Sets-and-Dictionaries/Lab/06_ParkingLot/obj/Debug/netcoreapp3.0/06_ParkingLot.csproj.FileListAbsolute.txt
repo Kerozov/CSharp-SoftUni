@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\bin\Debug\netcoreapp3.0\06_ParkingLot.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\bin\Debug\netcoreapp3.0\06_ParkingLot.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\bin\Debug\netcoreapp3.0\06_ParkingLot.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\bin\Debug\netcoreapp3.0\06_ParkingLot.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\bin\Debug\netcoreapp3.0\06_ParkingLot.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\bin\Debug\netcoreapp3.0\06_ParkingLot.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\obj\Debug\netcoreapp3.0\06_ParkingLot.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\obj\Debug\netcoreapp3.0\06_ParkingLot.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\obj\Debug\netcoreapp3.0\06_ParkingLot.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\06_ParkingLot\obj\Debug\netcoreapp3.0\06_ParkingLot.pdb

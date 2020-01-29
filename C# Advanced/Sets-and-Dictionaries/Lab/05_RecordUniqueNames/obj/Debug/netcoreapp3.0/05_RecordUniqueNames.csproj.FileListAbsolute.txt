@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\obj\Debug\netcoreapp3.0\05_RecordUniqueNames.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\obj\Debug\netcoreapp3.0\05_RecordUniqueNames.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\bin\Debug\netcoreapp3.0\05_RecordUniqueNames.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\bin\Debug\netcoreapp3.0\05_RecordUniqueNames.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\bin\Debug\netcoreapp3.0\05_RecordUniqueNames.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\bin\Debug\netcoreapp3.0\05_RecordUniqueNames.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\bin\Debug\netcoreapp3.0\05_RecordUniqueNames.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\bin\Debug\netcoreapp3.0\05_RecordUniqueNames.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\obj\Debug\netcoreapp3.0\05_RecordUniqueNames.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Lab\05_RecordUniqueNames\obj\Debug\netcoreapp3.0\05_RecordUniqueNames.pdb
