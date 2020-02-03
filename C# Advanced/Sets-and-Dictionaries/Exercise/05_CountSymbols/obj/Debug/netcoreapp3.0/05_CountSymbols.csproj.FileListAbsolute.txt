@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\bin\Debug\netcoreapp3.0\05_CountSymbols.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\bin\Debug\netcoreapp3.0\05_CountSymbols.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\bin\Debug\netcoreapp3.0\05_CountSymbols.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\bin\Debug\netcoreapp3.0\05_CountSymbols.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\bin\Debug\netcoreapp3.0\05_CountSymbols.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\bin\Debug\netcoreapp3.0\05_CountSymbols.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\obj\Debug\netcoreapp3.0\05_CountSymbols.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\obj\Debug\netcoreapp3.0\05_CountSymbols.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\obj\Debug\netcoreapp3.0\05_CountSymbols.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\05_CountSymbols\obj\Debug\netcoreapp3.0\05_CountSymbols.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\bin\Debug\netcoreapp3.0\04_EvenTimes.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\bin\Debug\netcoreapp3.0\04_EvenTimes.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\bin\Debug\netcoreapp3.0\04_EvenTimes.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\bin\Debug\netcoreapp3.0\04_EvenTimes.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\bin\Debug\netcoreapp3.0\04_EvenTimes.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\bin\Debug\netcoreapp3.0\04_EvenTimes.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\obj\Debug\netcoreapp3.0\04_EvenTimes.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\obj\Debug\netcoreapp3.0\04_EvenTimes.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\obj\Debug\netcoreapp3.0\04_EvenTimes.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\obj\Debug\netcoreapp3.0\04_EvenTimes.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Sets-and-Dictionaries\Exercise\04_EvenTimes\obj\Debug\netcoreapp3.0\04_EvenTimes.pdb

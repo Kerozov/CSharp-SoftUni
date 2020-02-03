@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\bin\Debug\netcoreapp3.0\01_SortEvenNumbers.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\bin\Debug\netcoreapp3.0\01_SortEvenNumbers.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\bin\Debug\netcoreapp3.0\01_SortEvenNumbers.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\bin\Debug\netcoreapp3.0\01_SortEvenNumbers.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\bin\Debug\netcoreapp3.0\01_SortEvenNumbers.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\bin\Debug\netcoreapp3.0\01_SortEvenNumbers.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\obj\Debug\netcoreapp3.0\01_SortEvenNumbers.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\obj\Debug\netcoreapp3.0\01_SortEvenNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\obj\Debug\netcoreapp3.0\01_SortEvenNumbers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\obj\Debug\netcoreapp3.0\01_SortEvenNumbers.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\01_SortEvenNumbers\obj\Debug\netcoreapp3.0\01_SortEvenNumbers.pdb

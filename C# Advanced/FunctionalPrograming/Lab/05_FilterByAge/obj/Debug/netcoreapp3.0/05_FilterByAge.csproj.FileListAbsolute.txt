@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\bin\Debug\netcoreapp3.0\05_FilterByAge.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\bin\Debug\netcoreapp3.0\05_FilterByAge.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\bin\Debug\netcoreapp3.0\05_FilterByAge.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\bin\Debug\netcoreapp3.0\05_FilterByAge.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\bin\Debug\netcoreapp3.0\05_FilterByAge.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\bin\Debug\netcoreapp3.0\05_FilterByAge.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\obj\Debug\netcoreapp3.0\05_FilterByAge.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\obj\Debug\netcoreapp3.0\05_FilterByAge.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\obj\Debug\netcoreapp3.0\05_FilterByAge.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\obj\Debug\netcoreapp3.0\05_FilterByAge.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\05_FilterByAge\obj\Debug\netcoreapp3.0\05_FilterByAge.pdb

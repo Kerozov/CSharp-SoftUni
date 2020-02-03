@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\bin\Debug\netcoreapp3.0\03_CountUppercaseWords.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\bin\Debug\netcoreapp3.0\03_CountUppercaseWords.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\bin\Debug\netcoreapp3.0\03_CountUppercaseWords.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\bin\Debug\netcoreapp3.0\03_CountUppercaseWords.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\bin\Debug\netcoreapp3.0\03_CountUppercaseWords.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\bin\Debug\netcoreapp3.0\03_CountUppercaseWords.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\obj\Debug\netcoreapp3.0\03_CountUppercaseWords.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\obj\Debug\netcoreapp3.0\03_CountUppercaseWords.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\obj\Debug\netcoreapp3.0\03_CountUppercaseWords.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\obj\Debug\netcoreapp3.0\03_CountUppercaseWords.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\FunctionalPrograming\Lab\03_CountUppercaseWords\obj\Debug\netcoreapp3.0\03_CountUppercaseWords.pdb
