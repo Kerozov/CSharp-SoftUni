@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\bin\Debug\netcoreapp3.0\10_PredicateParty!.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\bin\Debug\netcoreapp3.0\10_PredicateParty!.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\bin\Debug\netcoreapp3.0\10_PredicateParty!.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\bin\Debug\netcoreapp3.0\10_PredicateParty!.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\bin\Debug\netcoreapp3.0\10_PredicateParty!.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\bin\Debug\netcoreapp3.0\10_PredicateParty!.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\obj\Debug\netcoreapp3.0\10_PredicateParty!.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\obj\Debug\netcoreapp3.0\10_PredicateParty!.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\obj\Debug\netcoreapp3.0\10_PredicateParty!.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\obj\Debug\netcoreapp3.0\10_PredicateParty!.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\10_PredicateParty!\obj\Debug\netcoreapp3.0\10_PredicateParty!.pdb

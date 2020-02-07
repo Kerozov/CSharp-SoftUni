@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\bin\Debug\netcoreapp3.0\03_CustomMinFunction.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\bin\Debug\netcoreapp3.0\03_CustomMinFunction.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\bin\Debug\netcoreapp3.0\03_CustomMinFunction.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\bin\Debug\netcoreapp3.0\03_CustomMinFunction.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\bin\Debug\netcoreapp3.0\03_CustomMinFunction.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\bin\Debug\netcoreapp3.0\03_CustomMinFunction.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\obj\Debug\netcoreapp3.0\03_CustomMinFunction.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\obj\Debug\netcoreapp3.0\03_CustomMinFunction.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\obj\Debug\netcoreapp3.0\03_CustomMinFunction.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\obj\Debug\netcoreapp3.0\03_CustomMinFunction.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\03_CustomMinFunction\obj\Debug\netcoreapp3.0\03_CustomMinFunction.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\bin\Debug\netcoreapp3.0\05_AppliedArithmetics.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\bin\Debug\netcoreapp3.0\05_AppliedArithmetics.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\bin\Debug\netcoreapp3.0\05_AppliedArithmetics.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\bin\Debug\netcoreapp3.0\05_AppliedArithmetics.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\bin\Debug\netcoreapp3.0\05_AppliedArithmetics.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\bin\Debug\netcoreapp3.0\05_AppliedArithmetics.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\obj\Debug\netcoreapp3.0\05_AppliedArithmetics.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\obj\Debug\netcoreapp3.0\05_AppliedArithmetics.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\obj\Debug\netcoreapp3.0\05_AppliedArithmetics.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\obj\Debug\netcoreapp3.0\05_AppliedArithmetics.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\05_AppliedArithmetics\obj\Debug\netcoreapp3.0\05_AppliedArithmetics.pdb

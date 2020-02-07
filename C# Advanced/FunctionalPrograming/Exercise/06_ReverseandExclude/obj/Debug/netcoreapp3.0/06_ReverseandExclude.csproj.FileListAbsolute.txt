@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\obj\Debug\netcoreapp3.0\06_ReverseandExclude.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\obj\Debug\netcoreapp3.0\06_ReverseandExclude.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\obj\Debug\netcoreapp3.0\06_ReverseandExclude.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\bin\Debug\netcoreapp3.0\06_ReverseandExclude.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\bin\Debug\netcoreapp3.0\06_ReverseandExclude.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\bin\Debug\netcoreapp3.0\06_ReverseandExclude.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\bin\Debug\netcoreapp3.0\06_ReverseandExclude.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\bin\Debug\netcoreapp3.0\06_ReverseandExclude.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\bin\Debug\netcoreapp3.0\06_ReverseandExclude.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\obj\Debug\netcoreapp3.0\06_ReverseandExclude.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\06_ReverseandExclude\obj\Debug\netcoreapp3.0\06_ReverseandExclude.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\bin\Debug\netcoreapp3.0\07_PredicateForNames.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\bin\Debug\netcoreapp3.0\07_PredicateForNames.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\bin\Debug\netcoreapp3.0\07_PredicateForNames.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\bin\Debug\netcoreapp3.0\07_PredicateForNames.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\bin\Debug\netcoreapp3.0\07_PredicateForNames.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\bin\Debug\netcoreapp3.0\07_PredicateForNames.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\obj\Debug\netcoreapp3.0\07_PredicateForNames.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\obj\Debug\netcoreapp3.0\07_PredicateForNames.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\obj\Debug\netcoreapp3.0\07_PredicateForNames.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\obj\Debug\netcoreapp3.0\07_PredicateForNames.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\07_PredicateForNames\obj\Debug\netcoreapp3.0\07_PredicateForNames.pdb

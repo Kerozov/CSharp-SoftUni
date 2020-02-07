@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\bin\Debug\netcoreapp3.0\09_ListofPredicate.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\bin\Debug\netcoreapp3.0\09_ListofPredicate.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\bin\Debug\netcoreapp3.0\09_ListofPredicate.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\bin\Debug\netcoreapp3.0\09_ListofPredicate.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\bin\Debug\netcoreapp3.0\09_ListofPredicate.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\bin\Debug\netcoreapp3.0\09_ListofPredicate.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\obj\Debug\netcoreapp3.0\09_ListofPredicate.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\obj\Debug\netcoreapp3.0\09_ListofPredicate.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\obj\Debug\netcoreapp3.0\09_ListofPredicate.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\obj\Debug\netcoreapp3.0\09_ListofPredicate.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\Exercise\09_ListofPredicate\obj\Debug\netcoreapp3.0\09_ListofPredicate.pdb
