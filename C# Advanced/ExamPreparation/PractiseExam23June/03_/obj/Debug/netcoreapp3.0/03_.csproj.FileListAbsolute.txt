@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\bin\Debug\netcoreapp3.0\03_.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\bin\Debug\netcoreapp3.0\03_.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\bin\Debug\netcoreapp3.0\03_.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\bin\Debug\netcoreapp3.0\03_.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\bin\Debug\netcoreapp3.0\03_.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\bin\Debug\netcoreapp3.0\03_.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\obj\Debug\netcoreapp3.0\03_.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\obj\Debug\netcoreapp3.0\03_.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\obj\Debug\netcoreapp3.0\03_.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\obj\Debug\netcoreapp3.0\03_.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\03_\obj\Debug\netcoreapp3.0\03_.pdb

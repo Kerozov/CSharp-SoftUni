@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\obj\Debug\netcoreapp3.0\02_BookWorm.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\obj\Debug\netcoreapp3.0\02_BookWorm.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\obj\Debug\netcoreapp3.0\02_BookWorm.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\bin\Debug\netcoreapp3.0\02_BookWorm.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\bin\Debug\netcoreapp3.0\02_BookWorm.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\bin\Debug\netcoreapp3.0\02_BookWorm.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\bin\Debug\netcoreapp3.0\02_BookWorm.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\bin\Debug\netcoreapp3.0\02_BookWorm.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\bin\Debug\netcoreapp3.0\02_BookWorm.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\obj\Debug\netcoreapp3.0\02_BookWorm.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\02_BookWorm\obj\Debug\netcoreapp3.0\02_BookWorm.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\bin\Debug\netcoreapp2.1\Rabbits.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\bin\Debug\netcoreapp2.1\Rabbits.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\obj\Debug\netcoreapp2.1\Rabbits.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\03_Rabbits\obj\Debug\netcoreapp2.1\Rabbits.pdb

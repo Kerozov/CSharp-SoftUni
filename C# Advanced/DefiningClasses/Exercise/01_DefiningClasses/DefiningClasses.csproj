@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>DefiningClasses</RootNamespace>
+    <AssemblyName>DefiningClasses</AssemblyName>
+  </PropertyGroup>
+
+</Project>

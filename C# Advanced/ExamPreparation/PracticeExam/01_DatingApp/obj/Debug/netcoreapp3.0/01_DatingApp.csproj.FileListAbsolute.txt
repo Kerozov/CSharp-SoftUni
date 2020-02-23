@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\bin\Debug\netcoreapp3.0\01_DatingApp.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\bin\Debug\netcoreapp3.0\01_DatingApp.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\bin\Debug\netcoreapp3.0\01_DatingApp.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\bin\Debug\netcoreapp3.0\01_DatingApp.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\bin\Debug\netcoreapp3.0\01_DatingApp.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\bin\Debug\netcoreapp3.0\01_DatingApp.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\obj\Debug\netcoreapp3.0\01_DatingApp.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\obj\Debug\netcoreapp3.0\01_DatingApp.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\obj\Debug\netcoreapp3.0\01_DatingApp.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\obj\Debug\netcoreapp3.0\01_DatingApp.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\PracticeExam\01_DatingApp\obj\Debug\netcoreapp3.0\01_DatingApp.pdb

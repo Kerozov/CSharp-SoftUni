@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\ExamPreparation\PractiseExam23June\02_\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb

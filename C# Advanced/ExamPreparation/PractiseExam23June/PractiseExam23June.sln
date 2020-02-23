@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_", "01_\01_.csproj", "{53FBA628-07ED-4B0E-BD3B-E23FFF502D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_", "03_\03_.csproj", "{A734D4DE-9FD7-4A80-BBED-3B6E9725C083}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceStationRecruitment", "02_\SpaceStationRecruitment.csproj", "{FDC33D37-3C81-4ACC-9E8F-8FF26F418B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FBA628-07ED-4B0E-BD3B-E23FFF502D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FBA628-07ED-4B0E-BD3B-E23FFF502D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FBA628-07ED-4B0E-BD3B-E23FFF502D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FBA628-07ED-4B0E-BD3B-E23FFF502D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A734D4DE-9FD7-4A80-BBED-3B6E9725C083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A734D4DE-9FD7-4A80-BBED-3B6E9725C083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A734D4DE-9FD7-4A80-BBED-3B6E9725C083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A734D4DE-9FD7-4A80-BBED-3B6E9725C083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC33D37-3C81-4ACC-9E8F-8FF26F418B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC33D37-3C81-4ACC-9E8F-8FF26F418B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC33D37-3C81-4ACC-9E8F-8FF26F418B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC33D37-3C81-4ACC-9E8F-8FF26F418B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370CD60C-D1C7-4113-B83C-7DEB20727443}
+	EndGlobalSection
+EndGlobal

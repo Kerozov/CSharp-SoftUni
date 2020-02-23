@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\bin\Debug\netcoreapp3.0\CarEngineandTires.exe
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\bin\Debug\netcoreapp3.0\CarEngineandTires.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\bin\Debug\netcoreapp3.0\CarEngineandTires.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\bin\Debug\netcoreapp3.0\CarEngineandTires.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\bin\Debug\netcoreapp3.0\CarEngineandTires.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\bin\Debug\netcoreapp3.0\CarEngineandTires.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\obj\Debug\netcoreapp3.0\CarEngineandTires.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\obj\Debug\netcoreapp3.0\CarEngineandTires.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\obj\Debug\netcoreapp3.0\CarEngineandTires.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\obj\Debug\netcoreapp3.0\CarEngineandTires.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarEngineandTires\obj\Debug\netcoreapp3.0\CarEngineandTires.pdb

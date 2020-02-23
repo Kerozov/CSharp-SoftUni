@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\bin\Debug\netcoreapp2.2\CarManufacturer.deps.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\bin\Debug\netcoreapp2.2\CarManufacturer.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\bin\Debug\netcoreapp2.2\CarManufacturer.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\bin\Debug\netcoreapp2.2\CarManufacturer.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\bin\Debug\netcoreapp2.2\CarManufacturer.pdb
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\obj\Debug\netcoreapp2.2\CarManufacturer.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\obj\Debug\netcoreapp2.2\CarManufacturer.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\obj\Debug\netcoreapp2.2\CarManufacturer.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\obj\Debug\netcoreapp2.2\CarManufacturer.dll
+D:\SoftUni\CSharp-Software-University\C# Advanced\DefiningClasses\Lab\CarManufacturer\obj\Debug\netcoreapp2.2\CarManufacturer.pdb
