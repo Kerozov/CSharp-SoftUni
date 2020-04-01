@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\bin\Debug\netcoreapp3.0\PersonInfo.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\bin\Debug\netcoreapp3.0\PersonInfo.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\bin\Debug\netcoreapp3.0\PersonInfo.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\bin\Debug\netcoreapp3.0\PersonInfo.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\obj\Debug\netcoreapp3.0\PersonInfo.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MultipleImplementation\obj\Debug\netcoreapp3.0\PersonInfo.pdb

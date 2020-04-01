@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\bin\Debug\netcoreapp3.0\CustomRandomList.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\bin\Debug\netcoreapp3.0\CustomRandomList.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\bin\Debug\netcoreapp3.0\CustomRandomList.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\bin\Debug\netcoreapp3.0\CustomRandomList.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\bin\Debug\netcoreapp3.0\CustomRandomList.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\bin\Debug\netcoreapp3.0\CustomRandomList.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\obj\Debug\netcoreapp3.0\RandomList.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\obj\Debug\netcoreapp3.0\RandomList.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\obj\Debug\netcoreapp3.0\RandomList.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\obj\Debug\netcoreapp3.0\CustomRandomList.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Inheritance\Exercise\RandomList\obj\Debug\netcoreapp3.0\CustomRandomList.pdb

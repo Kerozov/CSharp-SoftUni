@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.pdb

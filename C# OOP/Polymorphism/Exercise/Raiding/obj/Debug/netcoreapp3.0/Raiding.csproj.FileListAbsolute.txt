@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Polymorphism\Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.pdb

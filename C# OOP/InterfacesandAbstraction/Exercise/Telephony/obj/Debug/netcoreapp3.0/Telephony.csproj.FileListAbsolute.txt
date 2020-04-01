@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.pdb

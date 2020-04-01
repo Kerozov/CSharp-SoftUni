@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\InterfacesandAbstraction\Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.pdb
