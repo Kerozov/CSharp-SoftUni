@@ -1,0 +1,11 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\bin\Debug\netcoreapp3.0\Loger.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\bin\Debug\netcoreapp3.0\Loger.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\bin\Debug\netcoreapp3.0\Loger.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\bin\Debug\netcoreapp3.0\Loger.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\bin\Debug\netcoreapp3.0\Loger.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\bin\Debug\netcoreapp3.0\Loger.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\obj\Debug\netcoreapp3.0\Loger.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\obj\Debug\netcoreapp3.0\Loger.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\obj\Debug\netcoreapp3.0\Loger.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\obj\Debug\netcoreapp3.0\Loger.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Solid\Exercise\Loger\obj\Debug\netcoreapp3.0\Loger.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager\Debug\netcoreapp2.1\CarManager.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager\Debug\netcoreapp2.1\CarManager.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager\Debug\netcoreapp2.1\CarManager.dll

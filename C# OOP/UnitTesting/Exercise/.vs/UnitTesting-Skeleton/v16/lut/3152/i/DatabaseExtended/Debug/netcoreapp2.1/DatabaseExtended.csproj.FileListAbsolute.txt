@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended\Debug\netcoreapp2.1\DatabaseExtended.dll

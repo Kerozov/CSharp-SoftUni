@@ -1,0 +1,14 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Lab\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.pdb

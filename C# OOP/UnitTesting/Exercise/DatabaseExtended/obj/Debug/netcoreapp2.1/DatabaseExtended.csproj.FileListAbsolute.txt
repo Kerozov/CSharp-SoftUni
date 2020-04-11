@@ -1,0 +1,8 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

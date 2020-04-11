@@ -1,0 +1,12 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\b\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\UnitTesting\Exercise\.vs\UnitTesting-Skeleton\v16\lut\0\i\CarManager.Tests\Debug\netcoreapp2.1\CarManager.Tests.csprojAssemblyReference.cache
