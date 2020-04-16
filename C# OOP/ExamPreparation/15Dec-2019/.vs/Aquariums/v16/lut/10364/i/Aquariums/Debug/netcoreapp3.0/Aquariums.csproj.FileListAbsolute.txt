@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums\Debug\netcoreapp3.0\Aquariums.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums\Debug\netcoreapp3.0\Aquariums.dll

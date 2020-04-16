@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents.Tests\\Presents.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents.Tests\\Presents.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents.Tests\\Presents.Tests.csproj",
+        "projectName": "Presents.Tests",
+        "projectPath": "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents.Tests\\Presents.Tests.csproj",
+        "packagesPath": "C:\\Users\\Zefir\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zefir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents\\Presents.csproj": {
+                "projectPath": "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents\\Presents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents\\Presents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents\\Presents.csproj",
+        "projectName": "Presents",
+        "projectPath": "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents\\Presents.csproj",
+        "packagesPath": "C:\\Users\\Zefir\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\CSharp-Software-University\\C# OOP\\ExamPreparation\\19Dec-2019\\Presents\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zefir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

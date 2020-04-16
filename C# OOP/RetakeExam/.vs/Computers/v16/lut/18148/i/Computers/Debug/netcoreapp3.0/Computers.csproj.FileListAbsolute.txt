@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.0\Computers.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.0\Computers.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\b\Computers\Debug\netcoreapp3.0\Computers.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.0\Computers.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.0\Computers.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\RetakeExam\.vs\Computers\v16\lut\0\i\Computers\Debug\netcoreapp3.0\Computers.dll

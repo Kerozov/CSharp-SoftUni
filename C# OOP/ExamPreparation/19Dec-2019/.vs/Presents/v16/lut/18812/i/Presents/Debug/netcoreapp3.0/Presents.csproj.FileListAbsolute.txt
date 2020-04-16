@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents\Debug\netcoreapp3.0\Presents.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents\Debug\netcoreapp3.0\Presents.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents\Debug\netcoreapp3.0\Presents.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents\Debug\netcoreapp3.0\Presents.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents\Debug\netcoreapp3.0\Presents.dll

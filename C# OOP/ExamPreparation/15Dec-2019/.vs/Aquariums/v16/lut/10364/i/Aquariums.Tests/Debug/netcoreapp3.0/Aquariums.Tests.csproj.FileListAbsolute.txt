@@ -1,0 +1,12 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\Mono.Cecil.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\15Dec-2019\.vs\Aquariums\v16\lut\10364\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll

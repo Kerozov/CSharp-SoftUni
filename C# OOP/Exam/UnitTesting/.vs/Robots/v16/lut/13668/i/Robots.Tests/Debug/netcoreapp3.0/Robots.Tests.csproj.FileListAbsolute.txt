@@ -1,0 +1,13 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\nunit.engine.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\nunit.engine.api.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.dll

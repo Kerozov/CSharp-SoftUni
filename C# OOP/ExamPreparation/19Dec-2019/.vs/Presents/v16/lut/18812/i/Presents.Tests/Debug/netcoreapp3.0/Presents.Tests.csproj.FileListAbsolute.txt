@@ -1,0 +1,12 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\Presents.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\Mono.Cecil.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\ExamPreparation\19Dec-2019\.vs\Presents\v16\lut\18812\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.dll

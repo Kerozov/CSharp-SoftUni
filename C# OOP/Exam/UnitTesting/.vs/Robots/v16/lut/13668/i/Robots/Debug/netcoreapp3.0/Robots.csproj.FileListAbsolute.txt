@@ -1,0 +1,10 @@
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots\Debug\netcoreapp3.0\Robots.exe
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots\Debug\netcoreapp3.0\Robots.deps.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\b\Robots\Debug\netcoreapp3.0\Robots.dll
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots\Debug\netcoreapp3.0\Robots.csproj.CopyComplete
+D:\SoftUni\CSharp-Software-University\C# OOP\Exam\UnitTesting\.vs\Robots\v16\lut\0\i\Robots\Debug\netcoreapp3.0\Robots.dll
